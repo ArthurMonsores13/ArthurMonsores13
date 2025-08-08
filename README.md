@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ArthurMonsoress
 ---
-* 🌱 Estou Cursando Engenharia De Software-UV
+* 🌱 Software Engineering Student-UV| Front-End Developer |
   
 ---
 # Skills
