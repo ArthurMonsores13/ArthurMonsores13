@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ArthurMonsoress
 ---
-* 🌱 Software Engineering Student-UV| Front-End Developer |Hello! I'm Arthur Monsores, I love technology and creating new things. I'm starting in this world with the goal of joining a big company and helping to create new technologies and development.
+* 🌱 Software Engineering Student-UV| Web Developer |Hello! I'm Arthur Monsores, I love technology and creating new things. I'm starting in this world with the goal of joining a big company and helping to create new technologies and development.
 
 
   
