@@ -22,7 +22,7 @@
 </div>
 
 ###
-![Arthur Monsores Status](https://github-readme-stats.vercel.app/api?username=ArthurMonsores13&hide=contribs,prs&theme=dark)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMonsores13&show_icons=true&theme=tokyonight)
 # [Portifolio](https://arthurmonsores13.github.io/Portifolio-Monsores/)
 ---
 * Site de anime: [Solo Leveling](https://arthurmonsores13.github.io/SoloLeveling/)
