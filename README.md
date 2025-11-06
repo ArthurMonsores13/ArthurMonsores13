@@ -37,7 +37,6 @@ You can check out my full portfolio here:
 ## 📚 Currently Learning / Estudando Atualmente
 
 - PostgreSQL (queries, performance, EXPLAIN ANALYZE, indexing, partitioning)
-- Flask (API, MVC patterns, templates)
 - Docker (containers for development)
 - SQL optimization and data modeling
 
