@@ -4,6 +4,10 @@ I am a Software Engineering student passionate about technology and building rea
 
 🚀 Currently focused on mastering PostgreSQL, Flask, Docker, and backend development.
 
+🧠 Open to internship opportunities in backend development and database engineering.
+
+🌎 Available for remote work.
+
 ---
 
 ## 👋 Olá, eu sou o Arthur Monsores
