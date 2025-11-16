@@ -59,6 +59,7 @@ You can check out my full portfolio here:
 ## 📬 Contact / Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurmonsores-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthur-monsores-5883061a1/)
+---
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monsoresarthur)
 
 ---
