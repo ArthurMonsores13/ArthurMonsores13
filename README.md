@@ -2,7 +2,7 @@
 
 I am a Software Engineering student passionate about technology and building real-world applications. I love creating projects from scratch, learning new tools, and exploring how backend and databases work.
 
-🚀 Currently focused on mastering PostgreSQL, Flask, Docker, and backend development.
+🚀 Currently focused on mastering PostgreSQL, Flask, Docker, and backend with C# and .NET development.
 
 🧠 Open to internship opportunities in backend development and database engineering.
 
@@ -14,7 +14,7 @@ I am a Software Engineering student passionate about technology and building rea
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia e por criar aplicações do zero. Gosto de aprender novas ferramentas, desenvolver projetos próprios e entender como funcionam os bastidores do backend e dos bancos de dados.
 
-🚀 Atualmente focado em dominar PostgreSQL, Flask, Docker e desenvolvimento para backend.
+🚀 Atualmente focado em dominar PostgreSQL, Flask, Docker e desenvolvimento para backend com C# e >NET.
 
 ---
 
@@ -42,7 +42,7 @@ You can check out my full portfolio here:
 
 - PostgreSQL (queries, performance, EXPLAIN ANALYZE, indexing, partitioning)
 - Docker (containers for development)
-- SQL optimization and data modeling
+- C# and .NET 
 
 ---
 
